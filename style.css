@@ -171,7 +171,7 @@ color: dodgerblue;
 .info{
     flex: 1 1 48rem;
     padding: 2rem 1rem;
-    padding-left: 6rem;
+    padding-left: 2%;
 }
 .para_by_mk_1 {
     color: #1b1a1a;
@@ -200,8 +200,8 @@ color: dodgerblue;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding: 1rem 0;
-    padding-left: 9rem;
+    padding: 1rem 5%;
+    padding-left: 5%;
 }
 .box{
     width: 27rem;
@@ -253,8 +253,8 @@ color: dodgerblue;
 }
 .heading3{
     text-align: center;
-    margin: 0 1rem;
-    margin-right: -10rem;
+    margin: 0 3%;
+    margin-right: 3%;
     font-size: 4rem;
     padding: 1rem;
     border-bottom: 0.1rem solid rgba(8, 8, 8, 0.875);
