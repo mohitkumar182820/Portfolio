@@ -92,8 +92,8 @@ color: dodgerblue;
 
 .heading{
     text-align: center;
-    margin: 0 1rem;
-    margin-right: 1rem;
+    margin: 0 2rem;
+    margin-right: 2rem;
     font-size: 4rem;
     padding: 1rem;
     border-bottom: 0.1rem solid rgba(8, 8, 8, 0.875);
@@ -253,8 +253,8 @@ color: dodgerblue;
 }
 .heading3{
     text-align: center;
-    margin: 0 1rem;
-    margin-right: 1rem;
+    margin: 0 2rem;
+    margin-right: 2rem;
     font-size: 4rem;
     padding: 1rem;
     border-bottom: 0.1rem solid rgba(8, 8, 8, 0.875);
