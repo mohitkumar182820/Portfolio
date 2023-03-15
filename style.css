@@ -103,15 +103,15 @@ color: dodgerblue;
 
 .title{
     text-align: center;
-    margin: 0 2rem;
-    margin-right: 2rem;
+    margin: 0 1%;
+    margin-right: 1%;
     font-size: 3rem;
     padding: 1rem;
     border-bottom: 0.1rem solid black;
     color: black;
 }
 .main2{
-    width: 247vh;
+    width: 348vh;
 }
 .row{
     display: flex;
