@@ -168,6 +168,11 @@ color: dodgerblue;
 .custom_icon_by_mk {
     color: rgb(60, 60, 60);
     margin: 0 10px;
+    cursor: pointer;  
+}
+.custom_icon_by_mk:hover{
+    background-color: white;
+    color: dodgerblue;
 }
 .info{
     flex: 1 1 48rem;
